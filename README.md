@@ -2,7 +2,6 @@
 
 A responsive dashboard that tracks the International Space Station in real time and lets you log your own ISS sightings.
 
-> **Note:** This README documents the project as designed and built across several feature branches/PRs. See the open PRs in this repo for the corresponding code: project scaffold, charts, sighting form, and dashboard UI.
 
 ## Purpose
 
