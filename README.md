@@ -91,8 +91,9 @@ Audited with Lighthouse (Chrome DevTools → Lighthouse tab → Accessibility ca
 
 **Result: 100/100**
 
-<!-- Add Lighthouse screenshot here -->
+![alt text](image.png)
 
 ## Output Screenshots
 
-<!-- Add screenshots here: dashboard overview, mobile responsive view, form validation errors, sightings table -->
+![alt text](image-1.png)
+![alt text](image-2.png)
